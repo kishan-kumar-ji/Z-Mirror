@@ -1,6 +1,6 @@
 services:
   app:
-    container_name: x-z
+    container_name: tb
     build:
       context: .
       dockerfile: Dockerfile
